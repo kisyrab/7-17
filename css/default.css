@@ -304,6 +304,8 @@ span.next_btn{
         position: absolute;
         top: 0; left: 0;
         padding: 50px 0;
+        z-index: 1000;
+
     }
     
     .nav{

@@ -6,8 +6,11 @@ img{vertical-align: baseline;}
 table{border-collapse: collapse;}
 
 input{
-    border: 1px solid #999;
-    color: #444;
+    border: 1px solid #e65d5d;
+    color: #e65d5d;
+}
+input::-webkit-input-placeholder{
+    color: #e65d5d;
 }
 
 body{font-family: "나눔고딕" , Arial, Helvetica, sans-serif;
